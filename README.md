@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 My portfolio [https://jaspreetlall.com](https://jaspreetlall.com)
+- 👨‍💻 My portfolio [https://jaspreetlall.netlify.app](https://jaspreetlall.netlify.app)
 
 - 📫 How to reach me **jslall.works@gmail.com**
 
